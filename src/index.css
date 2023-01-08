@@ -1,0 +1,192 @@
+* {
+  font-family: 'DM Sans', sans-serif;
+  font-weight: bold;
+  font-size: 14px;
+}
+
+input,
+textarea {
+  background-color: #F5F4F6 !important;
+  border-radius: 7px;
+  -webkit-border-radius: 7px;
+  -moz-border-radius: 7px;
+  -ms-border-radius: 7px;
+  -o-border-radius: 7px;
+}
+
+input {
+  caret-color: #EF9011;
+}
+
+.SearchIcon {
+  color: black !important;
+}
+
+.center {
+  justify-content: center;
+  align-items: center;
+  display: flex;
+}
+
+a {
+  text-decoration: none !important;
+  color: black !important;
+}
+
+
+/*................ dashboar style ............... */
+.dashboardCard {
+  height: 266px;
+  background-color: white;
+  padding: 20px 40px 20px 40px;
+  border-radius: 14px;
+  -webkit-border-radius: 14px;
+  -moz-border-radius: 14px;
+  -ms-border-radius: 14px;
+  -o-border-radius: 14px;
+  width: 232px;
+  margin: auto;
+
+}
+
+
+.dashboardCard .iconCard {
+  HEIGHT: 38px;
+  width: 38px;
+  border-radius: 25px;
+  padding: 8px;
+}
+
+.dashboardCard p {
+  font-size: 24px;
+  font-weight: 700;
+
+}
+
+.chartDashbord {
+  height: 332px !important;
+  margin: auto;
+}
+
+@media (min-width: 600px) {
+  .css-hyum1k-MuiToolbar-root {
+    min-height: 45px !important;
+  }
+}
+
+.p-chart {
+  position: relative;
+  height: 200px;
+  width: 95%;
+  margin: auto;
+}
+
+.p-chart canvas {
+  width: 100% !important;
+  margin: auto;
+}
+
+.bottom-bar {
+  height: 20px;
+  background: transparent;
+  border-radius: 25px;
+  padding: 6px 18px 6px 18px;
+  cursor: pointer;
+}
+
+.active {
+  color: white;
+  background: #2884FF;
+}
+
+.activeGraph {
+  color: white;
+  background: #FF764C;
+}
+
+.recommendedCard {
+  height: 236px;
+  width: 335px;
+  margin: auto;
+  margin-bottom: 10px;
+  border-radius: 14px;
+
+}
+
+/*................ end .....................*/
+
+
+
+/* ............ booking page .................... */
+
+.bookingSelect {
+  padding: 6px 9px !important;
+  width: 144px !important;
+  height: 45px !important;
+  background: #FFFFFF;
+  border-radius: 22.5px !important;
+  justify-content: center;
+  align-items: center !important;
+  text-align: center !important;
+}
+
+.filterIcon {
+  padding: 10px;
+  width: 44px !important;
+  height: 44px !important;
+  background: #FFFFFF;
+  box-shadow: 0px 4px 8px rgb(53 53 53 / 10%);
+  border-radius: 30px;
+  margin-right: 11px;
+  cursor: pointer;
+    margin-bottom: 6px !important;
+
+}
+
+.filterIcon:hover {
+
+  background: #A162F7;
+  color: white;
+  cursor: pointer;
+}
+.css-ece9u5 {
+  min-width: 120px;
+  margin-bottom: 6px !important;
+}
+
+.CarsCard {
+  /* Auto layout */
+
+  width: 325px;
+  height: 267px;
+  margin:10px auto;
+  background: #FFFFFF;
+  border-radius: 16px;
+}
+
+.CarsCard .iconCard {
+  HEIGHT: 32px;
+  width: 32px;
+  border-radius: 25px;
+  padding: 6px;
+  color: #A162F7;
+}
+
+.gray-color {
+  color: #A4A5A6;
+}
+
+.typeCar {
+  width: 50px;
+  height: 21px;
+  font-family: 'DM Sans';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 21px;
+
+  color: #72767C;
+}
+
+
+/*................ end .....................*/
