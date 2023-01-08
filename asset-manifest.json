@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/CarDashboard/static/css/main.54778584.css",
-    "main.js": "/CarDashboard/static/js/main.cc7391f4.js",
+    "main.js": "/CarDashboard/static/js/main.3f795ba0.js",
     "static/js/708.a520e9ad.chunk.js": "/CarDashboard/static/js/708.a520e9ad.chunk.js",
     "static/media/primeicons.svg": "/CarDashboard/static/media/primeicons.e1441b135b3ca9ad643c.svg",
     "static/media/primeicons.eot": "/CarDashboard/static/media/primeicons.d44157bdfa026dc877af.eot",
@@ -10,11 +10,11 @@
     "static/media/primeicons.woff2": "/CarDashboard/static/media/primeicons.78172950b335ccdb94e2.woff2",
     "index.html": "/CarDashboard/index.html",
     "main.54778584.css.map": "/CarDashboard/static/css/main.54778584.css.map",
-    "main.cc7391f4.js.map": "/CarDashboard/static/js/main.cc7391f4.js.map",
+    "main.3f795ba0.js.map": "/CarDashboard/static/js/main.3f795ba0.js.map",
     "708.a520e9ad.chunk.js.map": "/CarDashboard/static/js/708.a520e9ad.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.54778584.css",
-    "static/js/main.cc7391f4.js"
+    "static/js/main.3f795ba0.js"
   ]
 }
